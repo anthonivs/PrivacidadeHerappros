@@ -1,4 +1,4 @@
-# Politica de Privacidade - Herappros (movi_mente)
+# Politica de Privacidade - Herappros (movi_mente) 
 
 Ultima atualizacao: 26 de fevereiro de 2026
 
