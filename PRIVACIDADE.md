@@ -8,7 +8,7 @@ Ao usar o aplicativo, voce concorda com esta Politica.
 
 ## 1. Quem controla os dados
 
-Controlador: **[NOME DA EMPRESA OU RESPONSAVEL]**  
+Controlador: **[Herappros]**  
 CNPJ/CPF: **[23.005.106/0001-83]**  
 E-mail de contato (privacidade): **[herapprosconsultoriasoftskills@gmail.com]**
 
@@ -91,6 +91,6 @@ Podemos atualizar esta Politica periodicamente. A versao vigente sera sempre dis
 
 Em caso de duvidas sobre esta Politica ou sobre tratamento de dados pessoais:
 
-- E-mail: **[INFORMAR]**
-- Responsavel/DPO (se houver): **[INFORMAR]**
+- E-mail: **[herapprosconsultoriasoftskills@gmail.com]**
+
 
